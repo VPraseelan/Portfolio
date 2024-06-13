@@ -1,3 +1,3 @@
 # Prasheelan Velappody Portfolio 🌏🙌
-# Minimal Portfolio 👇
-![Portfolio-homepage](https://github.com/VPraseelan/Portfolio/assets/88025612/2150fe30-dc55-4158-b8ba-7bc415e1fd39)
+## Minimal Portfolio 🖼👇
+![Portfolio-homepage](https://github.com/VPraseelan/Prasheelan.KV.github.io/assets/88025612/ba5377d1-d415-4433-b5ec-f8b462aa8aec)
