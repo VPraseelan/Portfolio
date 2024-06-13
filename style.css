@@ -445,7 +445,11 @@ a span{
     font-weight: 800;
     margin: 10px 0 7px 0;
 }
-
+.education .edu-content .card .institute{
+    font-size: 25px;
+    font-weight: 200;
+    margin: 10px 0 7px 0;
+}
 /* skills section styling */
 .skills .title::after{
     content: "what i know";
