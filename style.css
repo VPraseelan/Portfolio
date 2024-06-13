@@ -9,9 +9,18 @@
 }
 :root {
     --main-color: #466ba1
+    --clr-neutral-900: hsl(207, 19%, 9%);
+    --clr-neutral-100: hsl(0, 0%, 100%);
+    --clr-accent-400: crimson; 
 }
 html{
     scroll-behavior: smooth;
+}
+
+*,
+* ::before,
+* ::after{
+    box-sizing: border-box;
 }
 
 /* custom scroll bar */
@@ -390,9 +399,6 @@ a span{
     color: crimson;
     background: none;
 }
-
-
-
 /* education section styling */
 .education, .projects{
     color:#fff;
@@ -440,7 +446,6 @@ a span{
 }
 
 /* skills section styling */
-
 .skills .title::after{
     content: "what i know";
 }
@@ -514,7 +519,7 @@ a span{
     width: 70%;
 }
 
-/* teams section styling */
+/* projects section styling */
 .projects .title::after{
     content: "what i did";
 }
